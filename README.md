@@ -1,4 +1,4 @@
-# US Stock Symbols
+# US Stock Tickers
 
 An aggregation of current US Stock Symbols in `json` and `txt` formats.  
 
