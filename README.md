@@ -3,7 +3,7 @@
 An aggregation of current US Stock Symbols in `json` and `txt` formats.  
 
 Updated daily at midnight, EST.
-## Exchanges Available:
+## Exchanges Available
 
 - NASDAQ
 - NYSE
@@ -26,4 +26,4 @@ This is a `json` list of the ticker symbols on that exchange. Nothing more.
 
 This is a newline separated `txt` list of the ticker symbols on the exchange. Nothing more. 
 ## All Symbols
-These may overlap across exchanges, be careful when using them. I highly recommend just consuming the per exchange list for your needs.
+Some blue chip stock symbols may overlap in multiple exchanges due to multi-listings. I highly recommend just using one exchange list.
