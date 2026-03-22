@@ -16,7 +16,7 @@ Each exchange has three file types:
 
 `exchange_full_ticker.json` 
 
-This is the raw data from NASDAQ list.  It is not a simple list of ticker symbols and contains full company name, etc.
+This is the raw data from NASDAQ list.  It is not a simple list of ticker symbols and contains full company name, ticker, last sale, net change, %change, volume, MC, county, IPO year, industry, sector and the URL.
 
 `exchange_tickers.json` 
 
